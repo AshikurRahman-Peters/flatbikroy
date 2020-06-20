@@ -1,0 +1,1 @@
+[21-Oct-2013 02:01:07] PHP Warning:  unlink(../../newad/thumb/454.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jamibikr/public_html/admin/pending/index.php on line 80

@@ -1,0 +1,22 @@
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/connect.php on line 2
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jamibikr/public_html/connect.php on line 3
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/leftcontains.php on line 17
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 17
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 18
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/leftcontains.php on line 35
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 35
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 36
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/leftcontains.php on line 119
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 119
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 120
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/leftcontains.php on line 121
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 121
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 122
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/index.php on line 108
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/index.php on line 108
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/index.php on line 109
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jamibikr/public_html/index.php on line 129
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/index.php on line 129
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/index.php on line 136
+[02-Dec-2013 21:58:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/index.php on line 136
+[03-Jul-2018 00:24:01 America/New_York] PHP Notice:  Undefined variable: curl in /home/jomibikro0/public_html/config.php on line 2

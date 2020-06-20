@@ -1,0 +1,47 @@
+body
+{
+	width:1000px;
+	text-align:center;
+	margin:0 auto;
+}
+
+.headerheight{
+	height:100px;
+}
+.topmenu{
+	color:white;
+	text-decoration:none;
+}
+.topmenu:hover{
+	color:gold;
+	text-decoration:none;
+}
+
+.hotproductdetail{
+	color:#00833F;
+}
+
+.hotproductdetail:hover{
+	color:blue;
+}
+
+.footerlink{
+	color:gray;
+	text-decoration:none;
+}
+.footerlink:hover{
+	color:gray;
+	text-decoration:underline;
+}
+.bfooterlink{
+	color:white;
+	text-decoration:none;
+}
+.bfooterlink:hover{
+	color:white;
+	text-decoration:underline;
+}
+#loading{
+	position:relative;
+	top:300px;
+}

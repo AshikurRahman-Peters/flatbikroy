@@ -1,0 +1,5 @@
+[09-Oct-2013 02:41:18] PHP Warning:  unlink(../../newad/thumb/401.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jamibikr/public_html/admin/published/index.php on line 24
+[16-Oct-2013 06:18:58] PHP Warning:  unlink(../../newad/thumb/440.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jamibikr/public_html/admin/published/index.php on line 24
+[09-Mar-2014 01:13:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/admin/published/index.php on line 388
+[09-Mar-2014 01:19:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/admin/published/index.php on line 388
+[29-Apr-2014 23:59:55] PHP Warning:  unlink(../../newad/thumb/647.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/jamibikr/public_html/admin/published/index.php on line 24

@@ -1,0 +1,24 @@
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/jamibikr/public_html/connect.php on line 2
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jamibikr/public_html/connect.php on line 3
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Too many connections in /home/jamibikr/public_html/contactus/index.php on line 5
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/contactus/index.php on line 5
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/contactus/index.php on line 6
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/jamibikr/public_html/connect.php on line 2
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jamibikr/public_html/connect.php on line 3
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jamibikr'@'localhost' (using password: NO) in /home/jamibikr/public_html/leftcontains.php on line 17
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 17
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 18
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jamibikr'@'localhost' (using password: NO) in /home/jamibikr/public_html/leftcontains.php on line 35
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 35
+[02-Dec-2013 04:00:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 36
+[02-Dec-2013 04:00:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jamibikr'@'localhost' (using password: NO) in /home/jamibikr/public_html/leftcontains.php on line 119
+[02-Dec-2013 04:00:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 119
+[02-Dec-2013 04:00:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 120
+[02-Dec-2013 04:00:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jamibikr'@'localhost' (using password: NO) in /home/jamibikr/public_html/leftcontains.php on line 121
+[02-Dec-2013 04:00:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jamibikr/public_html/leftcontains.php on line 121
+[02-Dec-2013 04:00:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jamibikr/public_html/leftcontains.php on line 122
+[22-Sep-2019 22:44:30 America/New_York] PHP Notice:  Undefined index: fbfname in /home/jomibikro0/public_html/contactus/sendfbf.php on line 2
+[22-Sep-2019 22:44:30 America/New_York] PHP Notice:  Undefined index: fbfphone in /home/jomibikro0/public_html/contactus/sendfbf.php on line 3
+[22-Sep-2019 22:44:30 America/New_York] PHP Notice:  Undefined index: fbfemail in /home/jomibikro0/public_html/contactus/sendfbf.php on line 4
+[22-Sep-2019 22:44:30 America/New_York] PHP Notice:  Undefined index: fbfsubject in /home/jomibikro0/public_html/contactus/sendfbf.php on line 5
+[22-Sep-2019 22:44:30 America/New_York] PHP Notice:  Undefined index: fbfmessage in /home/jomibikro0/public_html/contactus/sendfbf.php on line 6

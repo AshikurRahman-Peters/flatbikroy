@@ -1,0 +1,15 @@
+[12-Oct-2013 22:06:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamibikr/public_html/newad/edit/submitform.php:3) in /home/jamibikr/public_html/newad/edit/submitform.php on line 49
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: adid in /home/jomibikro0/public_html/newad/edit/index.php on line 5
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: cmbtype in /home/jomibikro0/public_html/newad/edit/index.php on line 6
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: cmblocation in /home/jomibikro0/public_html/newad/edit/index.php on line 7
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: txtsize in /home/jomibikro0/public_html/newad/edit/index.php on line 8
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: taaddress in /home/jomibikro0/public_html/newad/edit/index.php on line 9
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: cmbdocumentation in /home/jomibikro0/public_html/newad/edit/index.php on line 10
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: txtprice in /home/jomibikro0/public_html/newad/edit/index.php on line 11
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: txtadtitle in /home/jomibikro0/public_html/newad/edit/index.php on line 12
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: taaddetails in /home/jomibikro0/public_html/newad/edit/index.php on line 13
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: txtname in /home/jomibikro0/public_html/newad/edit/index.php on line 14
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: cmbylocation in /home/jomibikro0/public_html/newad/edit/index.php on line 15
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: tayaddress in /home/jomibikro0/public_html/newad/edit/index.php on line 16
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: txtphone in /home/jomibikro0/public_html/newad/edit/index.php on line 17
+[25-Sep-2018 22:10:40 America/New_York] PHP Notice:  Undefined index: txtemail in /home/jomibikro0/public_html/newad/edit/index.php on line 18
